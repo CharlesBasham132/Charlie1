@@ -1,5 +1,4 @@
-
-
+#ask user where to look
 print("where should I look for my battery?")
 room = str(input())
 
